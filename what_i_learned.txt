@@ -1,4 +1,9 @@
-Ik heb meer geleerd over git en github. Ik heb geleerd hoe ik een repository kan maken, hoe ik bestanden kan toevoegen en hoe ik commits kan maken.
- Ik heb ook geleerd hoe ik branches kan maken en hoe ik pull requests kan maken. Ik heb ook geleerd hoe ik conflicten kan oplossen als
-  er meerdere mensen aan hetzelfde project werken. Ik wil meer leren van git Commit en Push het resultaat. Ik vond het leuk om te leren over git en github, omdat het me helpt om mijn code beter te
-   organiseren en samen te werken met anderen.
+  Ik heb meer geleerd over git en github. Ik heb geleerd hoe ik een repository kan maken, hoe ik bestanden kan toevoegen en hoe ik commits kan maken.
+   Ik heb ook geleerd hoe ik branches kan maken en hoe ik pull requests kan maken. Ik heb ook geleerd hoe ik conflicten kan oplossen als
+    er meerdere mensen aan hetzelfde project werken. Ik wil meer leren van git Commit en Push het resultaat. Ik vond het leuk om te leren over git en github, omdat het me helpt om mijn code beter te
+     organiseren en samen te werken met anderen.
+     ------------------------------------------------
+  Ik heb geleerd hoe ik hoe een LAMP-stack werkt
+  Ik heb geleerd hoe ik een LAMP-stack installeer en configureer
+  Ik heb geleerd hoe ik een website host op een LAMP-stack
+  Ik wil nog weten hoe ik git kan gebruiken om mijn code te beheren.
