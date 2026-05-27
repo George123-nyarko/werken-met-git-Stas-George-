@@ -1,0 +1,4 @@
+Ik heb geleerd hoe ik hoe een LAMP-stack werkt
+Ik heb geleerd hoe ik een LAMP-stack installeer en configureer
+Ik heb geleerd hoe ik een website host op een LAMP-stack
+Ik wil nog weten hoe ik git kan gebruiken om mijn code te beheren.
